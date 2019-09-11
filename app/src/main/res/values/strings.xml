@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Just Java</string>
+    <string name="choose_to_order">Start Order</string>
 </resources>
